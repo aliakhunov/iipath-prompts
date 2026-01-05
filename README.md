@@ -33,9 +33,8 @@ Typical use cases include analysis, communication, learning, and decision suppor
 
 ## Repository structure
 
-Prompts are organized by **type of thinking**, not by industry or hype topics.
+Prompts are organized by **type of thinking**.
 
-/prompts
 /analysis
 /creation
 /decision_support
