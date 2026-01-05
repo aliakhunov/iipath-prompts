@@ -10,8 +10,6 @@ Most prompts are written in Russian and reflect real-world work with Russian-spe
 
 ## What this repository is about
 
-This is not a showcase of “clever prompts”.
-
 These prompts are:
 - built from real cases,
 - refined through repeated use,
