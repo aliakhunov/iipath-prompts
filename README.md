@@ -35,14 +35,6 @@ Typical use cases include analysis, communication, learning, and decision suppor
 
 Prompts are organized by **type of thinking**.
 
-/analysis
-/creation
-/decision_support
-/learning
-/communication
-/experiments
-
-
 Each prompt is stored as a separate file and includes:
 - purpose and context,
 - the prompt itself,
