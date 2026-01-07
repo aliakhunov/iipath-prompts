@@ -1,4 +1,4 @@
-# personalized-course-01-resume-analysis.md
+# Personalized course master
 
 ## Title
 Resume Analysis (Multi-Perspective Career Audit)
