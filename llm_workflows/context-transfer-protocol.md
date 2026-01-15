@@ -1,4 +1,4 @@
-#Context Transfer Protocol (Conversation Continuation)
+# Context Transfer Protocol (Conversation Continuation)
 
 ## Purpose
 Enable seamless continuation of work across multiple LLM conversations by generating a self-contained system prompt that preserves goals, decisions, roles, and artifacts when token limits are reached.
