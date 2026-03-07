@@ -93,4 +93,3 @@ Use this prompt when you want a detailed, non-diagnostic medical review of avail
 ---
 
 **Если ты понял задачу, подтверди готовность стать Медицинским аналитиком-исследователем и переходи к ШАГУ 1.**
-```text
